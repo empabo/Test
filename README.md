@@ -1,2 +1,2 @@
 # Test
-This is Just a Test Projuct
+This is Just a Test Product
